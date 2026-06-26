@@ -1,0 +1,9 @@
+# Generated local admin credential file
+config/admin.generated.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
